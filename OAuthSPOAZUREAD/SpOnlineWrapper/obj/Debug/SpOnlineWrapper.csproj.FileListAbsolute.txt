@@ -1,0 +1,22 @@
+C:\Users\artur.kordzik\Documents\kody\sample\SpOnlineWrapper\bin\Debug\SpOnlineWrapper.dll
+C:\Users\artur.kordzik\Documents\kody\sample\SpOnlineWrapper\bin\Debug\SpOnlineWrapper.pdb
+C:\Users\artur.kordzik\Documents\kody\sample\SpOnlineWrapper\bin\Debug\RestSharp.dll
+C:\Users\artur.kordzik\Documents\kody\sample\SpOnlineWrapper\bin\Debug\RestSharp.xml
+C:\Users\artur.kordzik\Documents\kody\sample\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.csprojResolveAssemblyReference.cache
+C:\Users\artur.kordzik\Documents\kody\sample\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.dll
+C:\Users\artur.kordzik\Documents\kody\sample\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.pdb
+C:\Users\artur.kordzik\Documents\kody\sample\SpOnlineWrapper\bin\Debug\SamlTemplate.xml
+C:\Users\artur.kordzik\Documents\Visual Studio 2015\Projects\SpOnlineWrapper\SpOnlineWrapper\bin\Debug\SpOnlineWrapper.dll
+C:\Users\artur.kordzik\Documents\Visual Studio 2015\Projects\SpOnlineWrapper\SpOnlineWrapper\bin\Debug\SpOnlineWrapper.pdb
+C:\Users\artur.kordzik\Documents\Visual Studio 2015\Projects\SpOnlineWrapper\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.csprojResolveAssemblyReference.cache
+C:\Users\artur.kordzik\Documents\Visual Studio 2015\Projects\SpOnlineWrapper\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.dll
+C:\Users\artur.kordzik\Documents\Visual Studio 2015\Projects\SpOnlineWrapper\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.pdb
+C:\Users\artur.kordzik\Documents\Visual Studio 2015\Projects\SpOnlineWrapper\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.Properties.Resources.resources
+C:\Users\artur.kordzik\Documents\Visual Studio 2015\Projects\SpOnlineWrapper\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.csproj.GenerateResource.Cache
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\SpOnlineWrapper\bin\Debug\SpOnlineWrapper.dll
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\SpOnlineWrapper\bin\Debug\SpOnlineWrapper.pdb
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.csprojResolveAssemblyReference.cache
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.Properties.Resources.resources
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.csproj.GenerateResource.Cache
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.dll
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\SpOnlineWrapper\obj\Debug\SpOnlineWrapper.pdb

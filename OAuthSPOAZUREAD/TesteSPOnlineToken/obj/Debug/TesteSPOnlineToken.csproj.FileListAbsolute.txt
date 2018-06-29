@@ -1,0 +1,8 @@
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\TesteSPOnlineToken\bin\Debug\TesteSPOnlineToken.exe.config
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\TesteSPOnlineToken\bin\Debug\TesteSPOnlineToken.exe
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\TesteSPOnlineToken\bin\Debug\TesteSPOnlineToken.pdb
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\TesteSPOnlineToken\bin\Debug\SpOnlineWrapper.dll
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\TesteSPOnlineToken\bin\Debug\SpOnlineWrapper.pdb
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\TesteSPOnlineToken\obj\Debug\TesteSPOnlineToken.csprojResolveAssemblyReference.cache
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\TesteSPOnlineToken\obj\Debug\TesteSPOnlineToken.exe
+C:\VSOnlineUOL\SampleConnectSAMLOriginal\PublicRepo\SpOnlineWrapper\TesteSPOnlineToken\obj\Debug\TesteSPOnlineToken.pdb

@@ -1,0 +1,8 @@
+C:\VSOnlineUOL\SampleConnectSAML\PublicRepo\SpOnlineWrapper\TestSPOnlineWrapper\bin\Debug\TestSPOnlineWrapper.exe.config
+C:\VSOnlineUOL\SampleConnectSAML\PublicRepo\SpOnlineWrapper\TestSPOnlineWrapper\bin\Debug\TestSPOnlineWrapper.exe
+C:\VSOnlineUOL\SampleConnectSAML\PublicRepo\SpOnlineWrapper\TestSPOnlineWrapper\bin\Debug\TestSPOnlineWrapper.pdb
+C:\VSOnlineUOL\SampleConnectSAML\PublicRepo\SpOnlineWrapper\TestSPOnlineWrapper\bin\Debug\SpOnlineWrapper.dll
+C:\VSOnlineUOL\SampleConnectSAML\PublicRepo\SpOnlineWrapper\TestSPOnlineWrapper\bin\Debug\SpOnlineWrapper.pdb
+C:\VSOnlineUOL\SampleConnectSAML\PublicRepo\SpOnlineWrapper\TestSPOnlineWrapper\obj\Debug\TestSPOnlineWrapper.csprojResolveAssemblyReference.cache
+C:\VSOnlineUOL\SampleConnectSAML\PublicRepo\SpOnlineWrapper\TestSPOnlineWrapper\obj\Debug\TestSPOnlineWrapper.exe
+C:\VSOnlineUOL\SampleConnectSAML\PublicRepo\SpOnlineWrapper\TestSPOnlineWrapper\obj\Debug\TestSPOnlineWrapper.pdb
