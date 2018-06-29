@@ -10,7 +10,7 @@ namespace SpOnlineWrapper
 {
     public class Client : IDisposable
     {
-        #region Fields
+        #region Fields 
 
         private readonly string _baseUrl;
         private readonly string _siteUrl;
